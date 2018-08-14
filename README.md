@@ -1,1 +1,3 @@
-# devops_aula02
+# Brad Pitt
+# George Cloone
+# Mark Walberg
